@@ -1,1 +1,1 @@
-Upload your files and work for others to see here. 
+Upload files and work that you want others to see here. 
