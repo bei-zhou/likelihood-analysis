@@ -1,4 +1,4 @@
---WIPAC FALL 2017 HS INTERNSHIP--
+WIPAC FALL 2017 HS INTERNSHIP
 
 Several high school students were invited to WIPAC to learn about and work on multimessenger likelihood analysis.
 
