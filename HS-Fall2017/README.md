@@ -1,5 +1,7 @@
 # WIPAC FALL 2017 HS INTERNSHIP
 
+https://wiki.icecube.wisc.edu/index.php/Communications_Education_and_Outreach#Multimessenger_Astronomy
+
 Several high school students were invited to WIPAC to learn about and work on multimessenger likelihood analysis.
 
 One of the great goals of neutrino astronomy is the identification of extra-solar and extra-galactic sources of neutrinos. Some of the best candidates for point neutrino sources are known gamma-ray sources. By comparing data collected from IceCube with the locations of known gamma-ray sources, we hope to find statistically significant correlations that suggest a source of neutrinos.
